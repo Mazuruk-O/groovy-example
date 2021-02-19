@@ -1,0 +1,5 @@
+From: $fromEmail
+To: $toEmail
+Dear $name, please click on the following URL to activate your account:
+${link}
+Thanks.
